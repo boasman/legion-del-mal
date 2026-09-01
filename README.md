@@ -16,6 +16,7 @@
 > — Lex Luthor, fundador etc.
 
 ## ¿Quiénes somos? - Remoto
+## ¿Quiénes somos? - Desde Local
 
 Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen entre Metrópolis, Gotham y Nueva York, nosotros hemos hecho lo que ellos jamás lograron: unirnos. DC, Marvel, no importa el universo — aquí solo importa el objetivo.
 
