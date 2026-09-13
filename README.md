@@ -9,7 +9,7 @@
 ![Licencia](https://img.shields.io/github/license/boasman/legion-del-mal)
 
 
-# 🦹‍♂️ La Legión del Mal -Desde la Web!!
+# 🦹‍♂️ La Legión del Mal -Desde la Web
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
