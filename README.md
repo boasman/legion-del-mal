@@ -71,6 +71,8 @@ La Liga de la Justicia y los Vengadores han formado una alianza. Nuestros expedi
 
 **No subestimar a:** Superman, Batman, Wonder Woman, Iron Man, Spider-Man, Thor.
 
+Consulta el [expediente de Spider-Man](inteligencia/perdedores/spider-man.md).
+
 ## Banderas de estado:
 
 - 🟢 Operativa
