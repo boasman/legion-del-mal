@@ -2,7 +2,7 @@
 name: 'Template para issues bugs '
 about: 'Ayudanos a mejorar  '
 title: 'Bug: '
-labels: bug, help wanted
+labels: bug, help wanted, Mejora de software
 assignees: ''
 
 ---
